@@ -1,4 +1,4 @@
-### CodeNexus API 
+### TechNews-API
 
 > [!IMPORTANT]  
 > This API is intended solely for educational purposes and is not suitable for use in any production environments. Since it is running on a free serverless platform, it may experience high latency and is not designed for high-performance needs.
